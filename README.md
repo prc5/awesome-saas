@@ -97,6 +97,7 @@
 - [Google Analytics 4](https://marketingplatform.google.com/about/analytics/) – Web and app analytics for acquisition and engagement.
 - [Datadog](https://www.datadoghq.com/) – Observability platform for monitoring SaaS apps and infrastructure.
 - [Sentry](https://sentry.io/) – Real-time error tracking and performance monitoring.
+- [WatchCron](https://watchcron.com/) – Cron job monitoring service that alerts when scheduled tasks fail or run late.
 
 ## DevOps, CI/CD & Automation
 
